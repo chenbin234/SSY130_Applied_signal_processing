@@ -1,0 +1,10 @@
+./dspkit/.pioenvs/
+./dspkit/.vscode/
+./dspkit/.pioenvs
+./dspkit/.piolibdeps
+./dspkit/.vscode/c_cpp_properties.json
+./dspkit/.travis.yml
+./dspkit/.vscode/.browse.c_cpp.db*
+./dspkit/.vscode/launch.json
+.directory
+**idea/
